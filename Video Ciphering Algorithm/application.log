@@ -1,0 +1,9 @@
+2022-03-16 07:31:05,840:INFO:Rotating Log:###### key for the encryption generated ######
+2022-03-16 07:32:48,973:INFO:Rotating Log:###### File to be encrypted Why & When I Use React JS.mp4  #######
+2022-03-16 07:33:10,869:INFO:Rotating Log:###### key loaded ######
+2022-03-16 07:33:10,984:WARNING:Rotating Log:###### opening original file  ######
+2022-03-16 07:33:11,825:INFO:Rotating Log:###### file encrypted ######
+2022-03-16 07:33:12,017:INFO:Rotating Log:###### Encrypted file saved  ######
+2022-03-16 07:33:12,026:INFO:Rotating Log:###### File Encrypted ! and saved with name - file.mp4 #######
+2022-03-16 07:33:54,453:INFO:Rotating Log:###### File to be encrypted file.mp4  #######
+2022-03-16 07:33:54,453:ERROR:Rotating Log:###### Encryption fails due to [Errno 2] No such file or directory: 'secret.key' #######
