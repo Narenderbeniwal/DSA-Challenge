@@ -1,4 +1,5 @@
 # DSA-Challenge: 1
+# Video Ciphering Algorithm
 
  Security and privacy issues of the transmitted data have become an important concern in multimedia technology So i have desgined an Encrytption/Decryption algorithm to protect the videos, so that the algorithm can digitally hide your videos to avoid unauthorised interception and viewing. To safeguard the material, videos are encrypted with an encoding method. Without the proper authorization, no one can watch the encrypted videos.
  
