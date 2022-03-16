@@ -19,5 +19,5 @@
 ## 6. Confirm to Encryption
 ## 7. Enter the name of new File
 ## 8. Then you file will be Encrypted
-![Uploading Screen Shot 2022-03-16 at 8.02.23 AM.png…]()
+
 
