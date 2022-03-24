@@ -1,0 +1,34 @@
+2022-03-24 07:43:09,116:INFO:Rotating Log:###### File to be compressed  Vinod File Handling code  #######
+2022-03-24 07:43:17,124:WARNING:Rotating Log:###### opening original file  ######
+2022-03-24 07:43:17,124:ERROR:Rotating Log:###### compression fails due to [Errno 2] No such file or directory: 'Vinod File Handling code' #######
+2022-03-24 07:44:17,576:INFO:Rotating Log:###### File to be compressed  img  #######
+2022-03-24 07:44:22,060:WARNING:Rotating Log:###### opening original file  ######
+2022-03-24 07:44:22,060:ERROR:Rotating Log:###### compression fails due to [Errno 2] No such file or directory: 'img' #######
+2022-03-24 07:47:14,916:INFO:Rotating Log:###### File to be compressed  OS Chapter 7.pdf  #######
+2022-03-24 07:47:17,836:WARNING:Rotating Log:###### opening original file  ######
+2022-03-24 07:47:17,836:ERROR:Rotating Log:###### compression fails due to [Errno 2] No such file or directory: "'/Users/ekcs011/Desktop/M Tech  CM" #######
+2022-03-24 07:47:54,900:INFO:Rotating Log:###### File to be compressed  OS Chapter 7  #######
+2022-03-24 07:47:58,356:WARNING:Rotating Log:###### opening original file  ######
+2022-03-24 07:47:58,356:ERROR:Rotating Log:###### compression fails due to [Errno 2] No such file or directory: 'OS Chapter 7' #######
+2022-03-24 07:49:25,820:INFO:Rotating Log:###### File to be compressed  new  #######
+2022-03-24 07:49:29,028:WARNING:Rotating Log:###### opening original file  ######
+2022-03-24 07:49:29,028:ERROR:Rotating Log:###### compression fails due to [Errno 2] No such file or directory: 'new' #######
+2022-03-24 07:53:18,053:INFO:Rotating Log:###### File to be compressed  img.png  #######
+2022-03-24 07:53:23,117:WARNING:Rotating Log:###### opening original file  ######
+2022-03-24 07:53:23,125:INFO:Rotating Log:##### Original size of file img.png: 38988 #####
+2022-03-24 07:53:23,125:INFO:Rotating Log:##### Compressed size: 36243 #####
+2022-03-24 07:53:23,125:INFO:Rotating Log:###### File Compressed ! and saved with name - img1 #######
+2022-03-24 07:56:02,948:INFO:Rotating Log:###### File to be compressed  ffa  #######
+2022-03-24 07:56:06,452:WARNING:Rotating Log:###### opening original file  ######
+2022-03-24 07:56:06,453:ERROR:Rotating Log:###### compression fails due to [Errno 2] No such file or directory: 'ffa' #######
+2022-03-24 07:56:36,844:INFO:Rotating Log:###### File to be compressed  img.png  #######
+2022-03-24 07:56:42,724:WARNING:Rotating Log:###### opening original file  ######
+2022-03-24 07:56:42,726:INFO:Rotating Log:##### Original size of file img.png: 38988 #####
+2022-03-24 07:56:42,726:INFO:Rotating Log:##### Compressed size: 36243 #####
+2022-03-24 07:56:42,726:INFO:Rotating Log:###### File Compressed ! and saved with name - img1 #######
+2022-03-24 07:57:10,812:INFO:Rotating Log:###### File to be decompressed  img1.png  #######
+2022-03-24 07:57:21,404:WARNING:Rotating Log:###### opening original file  ######
+2022-03-24 07:57:21,404:ERROR:Rotating Log:###### decompression fails due to [Errno 2] No such file or directory: 'img1.png' #######
+2022-03-24 07:57:46,188:INFO:Rotating Log:###### File to be decompressed  img1  #######
+2022-03-24 07:57:50,452:WARNING:Rotating Log:###### opening original file  ######
+2022-03-24 07:57:50,459:INFO:Rotating Log:###### File DeCompressed ! and saved with name - img2 #######
