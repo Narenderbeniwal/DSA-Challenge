@@ -1,0 +1,5 @@
+2022-03-31 17:50:24,688:INFO:Rotating Log: #### main function called #### 
+2022-03-31 17:50:52,820:INFO:Rotating Log:##### the path of directory to be sorted /Users/ekcs011/Downloads/ #####
+2022-03-31 17:50:55,467:ERROR:Rotating Log: #### some error occur due to [Errno 1] Operation not permitted: '/Users/ekcs011/Downloads//Why & When I Use React JS.mp4' ####
+2022-03-31 17:51:50,666:INFO:Rotating Log:##### the path of directory to be sorted /Users/ekcs011/Desktop/ #####
+2022-03-31 17:51:50,676:INFO:Rotating Log:#### file sorted !! ####
