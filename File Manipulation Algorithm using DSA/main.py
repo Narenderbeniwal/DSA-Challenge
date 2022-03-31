@@ -16,7 +16,7 @@ for files in names:
         shutil.move(path+files, path+'text/'+files)
     if ".ipynb" in files and not os.path.exists(path+'python/'+files):
         shutil.move(path+files, path+'python/'+files)
-    if ".mp3" in files and not os.path.exists(path+'video/'+files):
+    if ".mp4" in files and not os.path.exists(path+'video/'+files):
         shutil.move(path+files, path+'video/'+files)
     if ".pdf" in files and not os.path.exists(path+'pdf/'+files):
         shutil.move(path+files, path+'pdf/'+files)
