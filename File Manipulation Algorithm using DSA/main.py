@@ -22,3 +22,5 @@ for files in names:
         shutil.move(path+files, path+'pdf/'+files)
     if ".docx" in files and not os.path.exists(path+'ducument/'+files):
         shutil.move(path+files, path+'ducument/'+files)
+  
+print('Folders are created and files are moved to there Respective folder with the sorted order')
